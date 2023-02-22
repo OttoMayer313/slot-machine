@@ -1,5 +1,5 @@
 # React.js Slot Machine 🚀
-[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/OttoMayer313/chatbot-zenkaruto)
+[![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/OttoMayer313/slot-machine)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).<br />
 The project includes extra packages and improved file structure.
